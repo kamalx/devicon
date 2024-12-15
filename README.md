@@ -315,3 +315,8 @@ python3 -m http.server <port>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </div>
+<div>
+  This repo is 53.32 MB when checked out with
+  ```git clone --depth 1 ...```
+</div>
+
